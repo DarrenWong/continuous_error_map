@@ -53,7 +53,7 @@ The topics within the rosbag are listed below:
 ## Run
 
 ### Error map estimation
-You can refer the config folder of the sensor parameter for running LOAM, LIOSAM, VINS and LVISAM with this data
+You can refer the [config](https://github.com/DarrenWong/continuous_error_map/tree/main/config) folder of the sensor parameter for running LOAM, LIOSAM, VINS and LVISAM with this data
 
 ### Error-map-aided multi-sensor fusion
 We are arranging the code, will coming soon!!
