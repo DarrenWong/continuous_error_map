@@ -1,0 +1,33 @@
+{
+    "sensors":
+    [
+        {
+            "type": "sensor.camera.rgb",
+            "name": "image_2",
+            "spawn_point": {"x": 0.5, "y": 0.0, "z": 2.0, "roll": 0.0, "pitch": 0.0, "yaw": 0.0},
+            "image_size_x": 960,
+            "image_size_y": 600,
+            "fov": 90.0
+        },
+        {
+            "type": "sensor.lidar.ray_cast",
+            "name": "velodyne",
+            "spawn_point": {"x": 0.0, "y": 0.0, "z": 2.5, "roll": 0.0, "pitch": 0.0, "yaw": 0.0},
+            "range": 100,
+            "channels": 32,
+            "points_per_second": 5760000,
+            "upper_fov": 10.0,
+            "lower_fov": -30.0,
+            "rotation_frequency": 100,
+            "noise_stddev": 0.05
+        },
+        {
+            "type": "sensor.other.imu",
+            "name": "imu",
+            "spawn_point": {"x": 0.0, "y": 0.0, "z": 2.0, "roll": 0.0, "pitch": 0.0, "yaw": 0.0},
+            "noise_accel_stddev_x": 0.011197412605492375, "noise_accel_stddev_y": 0.011197412605492375, "noise_accel_stddev_z": 0.011197412605492375,
+            "noise_gyro_stddev_x": 0.010270904839480961, "noise_gyro_stddev_y": 0.010270904839480961, "noise_gyro_stddev_z": 0.010270904839480961,
+            "noise_gyro_bias_x": 0.000091355383994881894, "noise_gyro_bias_y": 0.000091355383994881894, "noise_gyro_bias_z": 0.000091355383994881894
+        }
+    ]
+}

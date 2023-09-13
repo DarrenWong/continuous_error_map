@@ -1,0 +1,17 @@
+{
+    "actors":
+    [
+        {
+            "type": "vehicle.tesla.model3",
+            "name": "vehicle.tesla.model3.master",
+            "sensors_setting": "sensor_config_template_32line.json",
+            "spawn_point": 171,
+            "path": [171,28,103,121, 150, 73]
+                
+        }
+    ],
+    "other_vehicles":
+    {
+        "vehicle_num": 0
+    }
+}
