@@ -8,6 +8,12 @@ Some new things compared to CarlaFLCAV:
 
 
 ## Run
+You need to replace the town03 map to the maps in the edited_map folder with your CARLA path __CarlaUE4/Content/Carla/Maps__(tested in carla_0.9.14, please remember to backup the original map) to make it challenging for LiDAR SLAM  
+<p align="center">
+  <img width="712pix" src="../../img/edited_map.png">
+</p>
+
+
 ```
 python3 data_recorder.py -w world_config_town03.json
 ```

@@ -19,7 +19,7 @@ Checkout our demo at [Video Link](https://youtu.be/6iRHJKm1LQc)
   <img width="712pix" src="img/sensor_setup.jpg">
 </p>
 
-We collect 10 Hz LiDAR point cloud, 20 Hz images, 100 Hz IMU and 100 Hz ground truth positioning that explicitly considers the real-world noise in urban scenarios under a maximum speed of 30 km/h. Furthermore, we simulated the GNSS measurements using the realist [RUMS simulator](https://www.mdpi.com/2072-4292/13/4/544), which considers the impact of signal reflection and diffraction based on the 3D building model, as the CARLA can only simulate GNSS solutions with Gaussian noise. 
+We collect 10 Hz LiDAR point cloud, 20 Hz images, 100 Hz IMU and 100 Hz ground truth positioning that explicitly considers the real-world noise in urban scenarios under a maximum speed of 30 km/h. Furthermore, we simulated the GNSS measurements using the realist [RUMS simulator](https://www.mdpi.com/2072-4292/13/4/544), which considers the impact of signal reflection and diffraction based on the 3D building model, as the CARLA can only simulate GNSS solutions with Gaussian noise. You can also collect your data using the tools [here](tools/data_collection/)
 
 | Sensor | Description 
 | :-----:| :---------: |
