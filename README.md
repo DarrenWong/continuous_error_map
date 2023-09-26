@@ -56,7 +56,20 @@ The topics within the rosbag are listed below:
 You can refer the [config](https://github.com/DarrenWong/continuous_error_map/tree/main/config) folder of the sensor parameter for running LOAM, LIOSAM, VINS and LVISAM with this data
 
 ### Error-map-aided multi-sensor fusion
-We are arranging the code, will coming soon!!
+We are arranging the code, which will come soon!!
 
 ## Acknowledge
-We acknowledge the [CarlaFLCAV](https://github.com/SIAT-INVS/CarlaFLCAV/tree/main) for the useful tools to collect the data in CARLA.And the authors also thank the valuable comments from ITSC 2023 reviewer, we will include the speed profile in the futher.
+We acknowledge the [CarlaFLCAV](https://github.com/SIAT-INVS/CarlaFLCAV/tree/main) for the useful tools to collect the data in CARLA. The authors also thank the valuable comments from ITSC 2023 reviewer, we will include the speed profile in the future.
+
+## Citation
+If you use this work for your research, you may want to cite
+```
+@INPROCEEDINGS{rsalio2023huang,
+  author={Huang, Feng and Wen, Weisong and Zhang, Guohao and Su, Dongzhe and Hsu, Li-Ta},
+  booktitle={2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)}, 
+  title={Adaptive Multi-Sensor Integrated Navigation System Aided by Continuous Error Map from RSU for Autonomous Vehicles in Urban Areas
+}, 
+  year={2023},
+  volume={},
+  number={}
+}
