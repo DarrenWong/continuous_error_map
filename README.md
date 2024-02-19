@@ -1,6 +1,6 @@
 # Continuous Error Map for Autonomous Vehicles in Urban Areas
 
-This repo will contain the implementation for our ITSC 2023 [paper]([doc/ITSC2023_error_map.pdf](https://ieeexplore.ieee.org/abstract/document/10422216)): **Adaptive Multi-Sensor Integrated Navigation System Aided by Continuous Error Map from RSU for Autonomous Vehicles in Urban Areas**. It is part of the project [V2X Cooperative Navigation](https://sites.google.com/view/v2x-cooperative-navigation).
+This repo will contain the implementation for our ITSC 2023 [paper](https://ieeexplore.ieee.org/abstract/document/10422216): **Adaptive Multi-Sensor Integrated Navigation System Aided by Continuous Error Map from RSU for Autonomous Vehicles in Urban Areas**. It is part of the project [V2X Cooperative Navigation](https://sites.google.com/view/v2x-cooperative-navigation).
 
 <p align="center">
   <img width="712pix" src="img/system_overview.png">
