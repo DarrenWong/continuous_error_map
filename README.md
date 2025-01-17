@@ -39,7 +39,7 @@ We collect 10 Hz LiDAR point cloud, 20 Hz images, 100 Hz IMU and 100 Hz ground t
 ### Real-world data
 We use the UrbanNav platfrom together with Hong Kong C-V2X roadside system. The data will be made publicly available upon acceptance of the paper.
 <p align="center">
-  <img width="712pix" src="img/real_world_platform.jpg">
+  <img width="712pix" src="img/real_world_platform.png">
 </p>
 
 ## Data Details
