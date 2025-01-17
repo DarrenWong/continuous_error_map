@@ -4,7 +4,7 @@ This repo will contain the data and implementation for our research related to C
 
 ## News
 
-**17 Jan 2025**: Our extended research includes a detailed recent literature review, methodology, and the [Hong Kong C-V2X testbed experiments]((#real-world-data)) (conducted during both day and night). The paper has been submitted and is currently under review. The real-world data and code will be made publicly available upon acceptance of the paper.
+**17 Jan 2025**: Our extended research includes a detailed recent literature review, methodology, and the [Hong Kong C-V2X testbed experiments](#real-world-data) (conducted during both day and night). The paper has been submitted and is currently under review. The real-world data and code will be made publicly available upon acceptance of the paper.
 
 **24 Sept 2023**: Preliminary research accepted by ITSC 2023 [paper](https://ieeexplore.ieee.org/abstract/document/10422216): **Adaptive Multi-Sensor Integrated Navigation System Aided by Continuous Error Map from RSU for Autonomous Vehicles in Urban Areas**. 
 
