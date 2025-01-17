@@ -4,7 +4,7 @@ This repo will contain the data and implementation for our research related to C
 
 ## News
 
-**17 Jan 2025**: Our extended research includes a detailed recent literature review, methodology and the Hong Kong C-V2X testbed experiments (conducted during both day and night). The paper has been submitted and is currently under review. The real-world data and code will be made publicly available upon acceptance of the paper.
+**17 Jan 2025**: Our extended research includes a detailed recent literature review, methodology, and the [Hong Kong C-V2X testbed experiments]((#real-world-data)) (conducted during both day and night). The paper has been submitted and is currently under review. The real-world data and code will be made publicly available upon acceptance of the paper.
 
 **24 Sept 2023**: Preliminary research accepted by ITSC 2023 [paper](https://ieeexplore.ieee.org/abstract/document/10422216): **Adaptive Multi-Sensor Integrated Navigation System Aided by Continuous Error Map from RSU for Autonomous Vehicles in Urban Areas**. 
 
@@ -36,7 +36,7 @@ We collect 10 Hz LiDAR point cloud, 20 Hz images, 100 Hz IMU and 100 Hz ground t
 | 1 x IMU | 100 Hz, 9-axis, Xsens MTi 10  noise model according to [UrbanNav](https://github.com/IPNL-POLYU/UrbanNavDataset/blob/master/UrbanNav-HK-Medium-Urban-1/xsens_imu_param.yaml)  |
 | 1 x GNSS | 10 Hz, Ublox M8T noise model with sign reflection from buildings |
 
-### Real world data
+### Real-world data
 We use the UrbanNav platfrom together with Hong Kong C-V2X roadside system. The data will be made publicly available upon acceptance of the paper.
 <p align="center">
   <img width="712pix" src="img/real_world_platform.jpg">
