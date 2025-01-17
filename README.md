@@ -37,7 +37,7 @@ We collect 10 Hz LiDAR point cloud, 20 Hz images, 100 Hz IMU and 100 Hz ground t
 | 1 x GNSS | 10 Hz, Ublox M8T noise model with sign reflection from buildings |
 
 ### Real-world data
-We use the UrbanNav platfrom together with Hong Kong C-V2X roadside system. The data will be made publicly available upon acceptance of the paper.
+We use the [UrbanNav](https://github.com/IPNL-POLYU/UrbanNavDataset) platform together with the [Hong Kong C-V2X roadside system](https://www.astri.org/tdprojects/connected-vehicle-v2x-technology/). The data will be made publicly available upon acceptance of the paper.
 <p align="center">
   <img width="712pix" src="img/real_world_platform.png">
 </p>
