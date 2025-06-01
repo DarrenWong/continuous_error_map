@@ -4,6 +4,9 @@ This repo will contain the data and implementation for our research related to C
 
 ## News
 
+**May 2025**: Our paper has been accepted for publication in IEEE Transactions on Instrumentation & Measurement [paper](https://ieeexplore.ieee.org/abstract/document/11015522/). We are currently organizing our data and code, which will be released soon.
+
+
 **17 Jan 2025**: Our extended research includes a detailed recent literature review, methodology, and the [Hong Kong C-V2X testbed experiments](#real-world-data) (conducted during both day and night). The paper has been submitted and is currently under review. The real-world data and code will be made publicly available upon acceptance of the paper.
 
 **24 Sept 2023**: Preliminary research accepted by ITSC 2023 [paper](https://ieeexplore.ieee.org/abstract/document/10422216): **Adaptive Multi-Sensor Integrated Navigation System Aided by Continuous Error Map from RSU for Autonomous Vehicles in Urban Areas**. 
@@ -77,6 +80,16 @@ We acknowledge the [CarlaFLCAV](https://github.com/SIAT-INVS/CarlaFLCAV/tree/mai
 ## Citation
 If you use this work for your research, you may want to cite
 ```
+@ARTICLE{huang2025errormap,
+  author={Huang, Feng and Wen, Weisong and Zhang, Guohao and Su, Dongzhe and Huang, Yulong},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={Continuous Error Map Aided Adaptive Multi-Sensor Integration for Connected Autonomous Vehicles in Urban Scenarios}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Urban areas;Laser radar;Global navigation satellite system;Accuracy;Estimation;Autonomous vehicles;Vehicle-to-everything;Odometry;Training;Lighting;Continuous Error Map;C-V2X;Multi-Sensor Integrated Positioning;Urban Scenarios},
+  doi={10.1109/TIM.2025.3573351}}
 
 @INPROCEEDINGS{huang2023errormap,
   author={Huang, Feng and Wen, Weisong and Zhang, Guohao and Su, Dongzhe and Hsu, Li-Ta},
