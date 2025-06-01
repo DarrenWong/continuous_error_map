@@ -4,7 +4,7 @@ This repo will contain the data and implementation for our research related to C
 
 ## News
 
-**May 2025**: Our paper has been accepted for publication in IEEE Transactions on Instrumentation & Measurement [paper](https://ieeexplore.ieee.org/abstract/document/11015522/). We are currently organizing our data and code, which will be released soon.
+**1 June 2025**: Our paper has been accepted for publication in IEEE Transactions on Instrumentation & Measurement [paper](https://ieeexplore.ieee.org/abstract/document/11015522/). We are currently organizing our data and code, which will be released soon.
 
 
 **17 Jan 2025**: Our extended research includes a detailed recent literature review, methodology, and the [Hong Kong C-V2X testbed experiments](#real-world-data) (conducted during both day and night). The paper has been submitted and is currently under review. The real-world data and code will be made publicly available upon acceptance of the paper.
